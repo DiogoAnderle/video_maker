@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/DiogoAnderle/video_maker.git"
   },
-  "author": "",
+  "author": "Diogo Anderle",
+  "global user.email": "anderle88@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DiogoAnderle/video_maker/issues"
   },
-  "homepage": "https://github.com/DiogoAnderle/video_maker#readme"
+  "homepage": "https://github.com/DiogoAnderle/video_maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
